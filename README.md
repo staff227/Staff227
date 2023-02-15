@@ -4,4 +4,3 @@
 - 🌱 I’m currently enrolled in a course to be a full stack Software Engineer
 - 📫 Reach me:+233246191203 wnfynn@gmail.com
 - 🌱 I’m also currently self learnig UI disigning 
-- ![](https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47k7c2zqjq4ltpxcysgl95dqxcdt66hoyigrwhhbqr&rid=giphy.gif&ct=g)
