@@ -3,4 +3,4 @@
 - 🔭 I’m a graduate in Computer Network Mgt.
 - 🌱 I’m currently enrolled in a course to be a full stack Software Engineer
 - 📫 Reach me:+233246191203 wnfynn@gmail.com
-- 🌱 I’m also currently self learnig UI disigning 
+- 🌱 I’m also currently self learnig UI designing 
